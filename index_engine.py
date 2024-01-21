@@ -8,7 +8,6 @@ from nltk.stem import PorterStemmer
 from typing import Tuple, List, Dict
 from collections import Counter
 from utils import index_engine_utils
-import cProfile, pstats
 
 ps = PorterStemmer()
 
@@ -143,14 +142,9 @@ def process_file(
 @click.argument("destination_directory", nargs=1, required=False)
 @click.argument("porter_stem", nargs=1, required=False)
 def main(source_file: str, destination_directory: str, porter_stem: str) -> None:
-    profiler = cProfile.Profile()
-    profiler.enable()
     index_engine_utils.validate_paths(source_file, destination_directory, porter_stem)
     porter_stem = True if porter_stem and porter_stem.lower() == "true" else False
     process_file(source_file, destination_directory, porter_stem)
-    profiler.disable()
-    stats = pstats.Stats(profiler).sort_stats("cumtime")
-    stats.print_stats()
 
 
 if __name__ == "__main__":
