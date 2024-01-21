@@ -1,0 +1,30 @@
+docno: LA010123-0006
+internal id: 5
+date: January 1, 2023
+headline: token1,token2 token3 token4 TOKEN5 token6
+raw document:
+
+<DOC>
+<DOCNO> LA010123-0006 </DOCNO>
+<HEADLINE>
+<P>
+token1,token2
+</P>
+<P>
+token3 token4
+TOKEN5                    token6
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+token7.!@#$%^&*(){}:<>?token8:"{?>}
+token9,;[10
+ToKeN 11
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+token_12
+</P>
+</GRAPHIC>
+</DOC>

@@ -1,0 +1,163 @@
+<DOC>
+<DOCNO> LA010123-0001 </DOCNO>
+<DOCID> DOESNOTAPPEAR doesnotappear 20873638 </DOCID>
+<DATE>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</DATE>
+<SECTION>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</SECTION>
+<LENGTH>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Calgarians Flock to BC for the Winter
+</P>
+<P>
+Alberta
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</BYLINE>
+<TEXT>
+<P>
+Calgarians are often found moving to BC to escape the winter.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+A photo of the Calgary tower by user rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>
+
+
+<DOC>
+<DOCNO> LA010123-0002 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+BC Voted Number 1 Canadian Tourist Destination
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+BC, British Columbia was voted the number 1 tourist destination. 
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+A photo of British Columbia by user rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>
+
+<DOC>
+<DOCNO> LA010123-0003 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+Ontario’s Winter Brace
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An official from Toronto has told the public to brace for a tough winter season.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+CN Tower as captured by rtiscareno5_5.
+</P>
+</GRAPHIC>
+</DOC>
+
+<DOC>
+<DOCNO> LA010123-0004 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+Ontario’s Winter Brace
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An official from Toronto has told the public to brace for a tough winter season.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+CN Tower as captured by rtiscareno5_5.
+</P>
+</GRAPHIC>
+</DOC>
+
+<DOC>
+<DOCNO> LA010123-0005 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+winter_wonderland opening soon
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The park is due to open soon to visitors.
+</P>
+<SECTION>
+<FOOTER>
+<P>
+November 25 is the anticipated start date. 
+</P>
+</SECTION>
+</FOOTER>
+</TEXT>
+<GRAPHIC>
+<P>
+Spooky Tower as captured by rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>
+
+<DOC>
+<DOCNO> LA010123-0006 </DOCNO>
+<HEADLINE>
+<P>
+token1,token2
+</P>
+<P>
+token3 token4
+TOKEN5                    token6
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+token7.!@#$%^&*(){}:<>?token8:"{?>}
+token9,;[10
+ToKeN 11
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+token_12
+</P>
+</GRAPHIC>
+</DOC>

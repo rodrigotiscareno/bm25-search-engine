@@ -1,0 +1,47 @@
+docno: LA010123-0001
+internal id: 0
+date: January 1, 2023
+headline: Calgarians Flock to BC for the Winter Alberta
+raw document:
+<DOC>
+<DOCNO> LA010123-0001 </DOCNO>
+<DOCID> DOESNOTAPPEAR doesnotappear 20873638 </DOCID>
+<DATE>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</DATE>
+<SECTION>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</SECTION>
+<LENGTH>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Calgarians Flock to BC for the Winter
+</P>
+<P>
+Alberta
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+DOESNOTAPPEAR doesnotappear 20873638
+</P>
+</BYLINE>
+<TEXT>
+<P>
+Calgarians are often found moving to BC to escape the winter.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+A photo of the Calgary tower by user rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>

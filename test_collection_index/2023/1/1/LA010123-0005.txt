@@ -1,0 +1,34 @@
+docno: LA010123-0005
+internal id: 4
+date: January 1, 2023
+headline: Canada winter wonderland opening soon
+raw document:
+
+<DOC>
+<DOCNO> LA010123-0005 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+winter_wonderland opening soon
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The park is due to open soon to visitors.
+</P>
+<SECTION>
+<FOOTER>
+<P>
+November 25 is the anticipated start date.
+</P>
+</SECTION>
+</FOOTER>
+</TEXT>
+<GRAPHIC>
+<P>
+Spooky Tower as captured by rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>

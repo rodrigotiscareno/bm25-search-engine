@@ -1,0 +1,27 @@
+docno: LA010123-0003
+internal id: 2
+date: January 1, 2023
+headline: Canada Ontario’s Winter Brace
+raw document:
+
+<DOC>
+<DOCNO> LA010123-0003 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+Ontario’s Winter Brace
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+An official from Toronto has told the public to brace for a tough winter season.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+CN Tower as captured by rtiscareno5_5.
+</P>
+</GRAPHIC>
+</DOC>

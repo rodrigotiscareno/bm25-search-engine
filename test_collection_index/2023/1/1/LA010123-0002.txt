@@ -1,0 +1,28 @@
+docno: LA010123-0002
+internal id: 1
+date: January 1, 2023
+headline: Canada BC Voted Number 1 Canadian Tourist Destination
+raw document:
+
+
+<DOC>
+<DOCNO> LA010123-0002 </DOCNO>
+<HEADLINE>
+<P>
+Canada
+</P>
+<P>
+BC Voted Number 1 Canadian Tourist Destination
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+BC, British Columbia was voted the number 1 tourist destination.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+A photo of British Columbia by user rtiscareno55.
+</P>
+</GRAPHIC>
+</DOC>
